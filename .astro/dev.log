@@ -1561,3 +1561,103 @@
 {"message":"[200] /about/ 21ms","label":null,"level":"info"}
 {"message":"/src/styles/global.css","label":"watch","level":"info"}
 {"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"[200] /about/ 1ms","label":null,"level":"info"}
+{"message":"[200] /Mapart/sfw/ 20ms","label":null,"level":"info"}
+{"message":"[200] /Mapart/nsfw/ 21ms","label":null,"level":"info"}
+{"message":"[200] /Mapart/sfw/ 2ms","label":null,"level":"info"}
+{"message":"[200] /Mapart/nsfw/ 2ms","label":null,"level":"info"}
+{"message":"[200] /Mapart/sfw/ 3ms","label":null,"level":"info"}
+{"message":"[200] /posts/ 4ms","label":null,"level":"info"}
+{"message":"[200] /about/ 2ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 17ms","label":null,"level":"info"}
+{"message":"[200] /world-map/ 7ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 20ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 20ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/download/overworld.astro:15:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/download/overworld.astro:15:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/download/overworld.astro:15:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 28ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 28ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 23ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 25ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/download/overworld.astro:15:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 18ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 1ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 24ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 19ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 19ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 43ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 31ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 24ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 28ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 23ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 25ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 25ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
