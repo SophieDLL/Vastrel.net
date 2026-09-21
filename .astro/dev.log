@@ -705,3 +705,859 @@
 {"message":"/src/styles/global.css","label":"watch","level":"info"}
 {"message":"[200] /posts/ 35ms","label":null,"level":"info"}
 {"message":"[200] /posts/ 4ms","label":null,"level":"info"}
+{"message":"[200] /rss.xml 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /posts/ 14ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /posts/ 6ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /posts/ 6ms","label":null,"level":"info"}
+{"message":"[200] / 46ms","label":null,"level":"info"}
+{"message":"[200] /posts/website-release/ 19ms","label":null,"level":"info"}
+{"message":"[200] / 7ms","label":null,"level":"info"}
+{"message":"[200] /about/ 13ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `EOF` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:10:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `EOF` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:10:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:10:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `EOF` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:10:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `EOF` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:31\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 6ms","label":null,"level":"info"}
+{"message":"[200] /about/ 6ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 37ms","label":null,"level":"info"}
+{"message":"[200] /about/ 2ms","label":null,"level":"info"}
+{"message":"[200] / 5ms","label":null,"level":"info"}
+{"message":"[200] /about/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 32ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:24:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:24:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:15:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:15:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:15:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:15:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:15:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:15:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 65ms","label":null,"level":"info"}
+{"message":"[200] /about/ 65ms","label":null,"level":"info"}
+{"message":"[200] /about/ 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 42ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 54ms","label":null,"level":"info"}
+{"message":"[200] /about/ 7ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 44ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 49ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"[200] /about/ 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 33ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 31ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 33ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 24ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 27ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:5\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 35ms","label":null,"level":"info"}
+{"message":"[200] /about/ 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 30ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 41ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 39ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 25ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 35ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 28ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 46ms","label":null,"level":"info"}
+{"message":"[200] /about/ 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 38ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'p'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 46ms","label":null,"level":"info"}
+{"message":"[200] /about/ 7ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 58ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:9\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:9\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'line'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:19:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:9\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:9\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:9\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 41ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:32\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:32\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'div'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'div'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'div'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'div'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 28ms","label":null,"level":"info"}
+{"message":"[200] /about/ 28ms","label":null,"level":"info"}
+{"message":"[200] /about/ 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:20:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:20:1\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:7\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Closing tag '</div>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:7\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:18:7\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 30ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 35ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 30ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 29ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 33ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 36ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 44ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 41ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 43ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 48ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 49ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 43ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 34ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:26:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Closing tag '</a>' has no matching opening tag. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:24:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:2\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[200] /about/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:12\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:23:12\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unterminated string (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 33ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:25:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 48ms","label":null,"level":"info"}
+{"message":"[200] /about/ 48ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 40ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 35ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'ul'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:29:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'ul'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding JSX closing tag for 'ul'. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:29:4\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[200] /about/ 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 34ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 38ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 30ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 32ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 30ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 46ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Unexpected token (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:29:3\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected corresponding closing tag for JSX fragment. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected corresponding closing tag for JSX fragment. (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:11\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"[200] /about/ 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 38ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 30ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:7\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `>` but found `<` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:28:7\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 39ms","label":null,"level":"info"}
+{"message":"[200] /about/ 39ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 8ms","label":null,"level":"info"}
+{"message":"[200] /about/ 6ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 3ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 46ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 5ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 7ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 34ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 7ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 6ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 5ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 5ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 2ms","label":null,"level":"info"}
+{"message":"[404] /images/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"[404] /Avatars/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `}` but found `:` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `}` but found `:` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:10:11\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `}` but found `:` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro:10:11\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at handleCompileResultErrors (/home/sophie/GitHub/Vastrel.net/node_modules/.pnpm/astro@7.3.2_@emnapi+core@1.11.3_@emnapi+runtime@1.11.3_@types+node@26.6.2_jiti@2.7.0_yaml@2.9.1/node_modules/astro/dist/core/compile/compile.js:47:8)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[CompilerError] Expected `,` or `}` but found `Identifier` (The stacktrace appears to be already rewritten by something else, but was passed to vite.ssrFixStacktrace. This may cause incorrect stacktraces.)\n  Stack trace:\n    at /home/sophie/GitHub/Vastrel.net/src/pages/about.astro\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 23ms","label":null,"level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 1ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"[200] /about/ 3ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"[404] /about/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"[404] /assets/Avatars/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[404] /assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"[404] /assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"[404] /assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"[404] /about/sr/assets/Avatars/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /about/sr/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[404] /about/srx/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"[404] /about/srx/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"[404] /about/src/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"[404] /about/src/assets/Avatars/sophie.png 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"[404] /about/src/assets/Avatars/sophie.png 5ms","label":null,"level":"info"}
+{"message":"[404] /about/src/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"[404] /about/src/assets/Avatars/sophie.png 4ms","label":null,"level":"info"}
+{"message":"[404] /about/src/assets/Avatars/sophie.png 3ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"[404] /about/src 2ms","label":null,"level":"info"}
+{"message":"[404] /about/src 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 23ms","label":null,"level":"info"}
+{"message":"[200] / 8ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"[404] /src/ 2ms","label":null,"level":"info"}
+{"message":"[404] /src/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 25ms","label":null,"level":"info"}
+{"message":"[404] /src/assets/Avatars/ 4ms","label":null,"level":"info"}
+{"message":"[404] /src/assets/Avatars/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 27ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 19ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 18ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 26ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 22ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 17ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 21ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /about/ 20ms","label":null,"level":"info"}
