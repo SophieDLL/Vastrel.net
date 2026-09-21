@@ -2031,3 +2031,6 @@
 {"message":"[200] /download/overworld/ 43ms","label":null,"level":"info"}
 {"message":"[200] / 2ms","label":null,"level":"info"}
 {"message":"[200] /download/overworld/ 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] /download/overworld/ 26ms","label":null,"level":"info"}
+{"message":"[200] /download/overworld/ 3ms","label":null,"level":"info"}
