@@ -1,0 +1,31 @@
+---
+import PageLayout from "@/layouts/Base.astro";
+import { Icon } from "astro-icon/components";
+import SocialList from "@/components/SocialList.astro";
+
+
+const meta = {
+	description: "It apears that the page you are looking for does not exist, Please check the URL or use the navigation to find your way back",
+	title: "Page Not Found",
+};
+---
+
+<!-- Default Astro Cactus 404 -->
+
+<!-- <PageLayout meta={meta}>
+	<h1 class="title mb-12">404 | Oops something went wrong</h1>
+	<p class="mb-8">Please use the navigation to find your way back</p>
+</PageLayout> -->
+
+
+<PageLayout meta={meta}>
+	<section>
+		
+	<p class="text-3xl text-accent text-center"> <b><u>Page Not Found</u></b></p> <!-- istg it makes no sence that this shit cant be centerd but it makes perfect sence at the same time all because im too lazy to make 1 tiny change but will write this massively long good for nothing comment. -->
+	<br>
+	<p>The page you are looking for does not exist, Please check the URL or use the navigation to find your way back</p>
+		<br>
+		<br>
+	<p class="text-center text-xl"><u><b><a href="/">Home</a></b></u>   <u><b><a href="/about/">About</a></b></u> <u><b><a href="/Blog/">Blog</a></b></u></p>
+	</section>
+</PageLayout>

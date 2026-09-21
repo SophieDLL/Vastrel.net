@@ -1,0 +1,193 @@
+---
+import Search from "@/components/Search.astro";
+import ThemeToggle from "@/components/ThemeToggle.astro";
+import { menuLinks } from "@/site.config";
+import { siteConfig } from "../../site.config";
+---
+
+<header
+	class:list={["group relative mb-28 flex items-center", siteConfig.showLogo && "sm:ps-18"]}
+	id="main-header"
+>
+	<div class="flex sm:flex-col sm:items-start">
+		<a
+			aria-current={Astro.url.pathname === "/" ? "page" : false}
+			class="inline-flex items-center sm:relative sm:inline-block sm:grayscale sm:hover:filter-none"
+			href="/"
+		>
+			{siteConfig.showLogo && (
+				<svg
+					aria-hidden="true"
+					class="text-accent-2 me-3 h-10 w-10 shrink-0 sm:absolute sm:-inset-s-18 sm:me-0 sm:h-14 sm:w-14"
+					fill="currentColor"
+					focusable="false"
+					viewBox="0 0 1024 1024"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path
+						shape-rendering="crispEdges"
+						d="M40 40H340V82H382V170H340V214H382V302H424V390H466V478H498V566H526V478H558V390H600V302H642V214H684V170H642V82H684V40H984V128H936V214H890V302H846V390H802V478H758V566H714V654H670V742H626V830H582V918H542V970H482V918H442V830H398V742H354V654H310V566H266V478H222V390H178V302H134V214H88V128H40Z"
+					/>
+				</svg>
+			)}
+			<span class="text-accent-2 text-xl font-bold sm:text-2xl">{siteConfig.title}</span>
+		</a>
+		<nav
+			aria-label="Main"
+			class="bg-global-bg absolute -inset-x-4 top-12 hidden flex-col divide-y px-2 py-4 group-[.menu-open]:z-50 group-[.menu-open]:flex sm:static sm:z-auto sm:-ms-4 sm:mt-1 sm:flex sm:flex-row sm:divide-x sm:divide-y-0 sm:bg-transparent sm:p-0"
+			id="navigation-menu"
+		>
+			{menuLinks.map((link) =>
+				link.children ? (
+					<nav-dropdown class="relative flex flex-col sm:block">
+						<button
+							aria-expanded="false"
+							aria-haspopup="menu"
+							class="text-accent group/dd flex w-full items-center gap-1 px-2 py-4 font-semibold sm:w-auto sm:px-4 sm:py-0 sm:underline-offset-2 sm:hover:underline"
+							type="button"
+						>
+							{link.title}
+							<svg
+								aria-hidden="true"
+								class="h-4 w-4 transition-transform group-aria-expanded/dd:rotate-180"
+								fill="none"
+								focusable="false"
+								stroke="currentColor"
+								stroke-width="2"
+								viewBox="0 0 24 24"
+								xmlns="http://www.w3.org/2000/svg"
+							>
+								<path d="m6 9 6 6 6-6" stroke-linecap="round" stroke-linejoin="round" />
+							</svg>
+						</button>
+						<ul
+							class="bg-global-bg hidden flex-col ps-4 sm:absolute sm:start-2 sm:top-full sm:z-50 sm:mt-1 sm:min-w-40 sm:rounded-md sm:border sm:border-current/15 sm:ps-0 sm:py-1 sm:shadow-lg"
+							data-dropdown-menu
+						>
+							{link.children.map((child) => (
+								<li>
+									<a
+										aria-current={Astro.url.pathname === child.path ? "page" : false}
+										class="text-accent block px-2 py-3 font-semibold sm:px-4 sm:py-2 sm:hover:bg-current/10"
+										href={child.path}
+									>
+										{child.title}
+									</a>
+								</li>
+							))}
+						</ul>
+					</nav-dropdown>
+				) : (
+					<a
+						aria-current={Astro.url.pathname === link.path ? "page" : false}
+						class="text-accent px-2 py-4 font-semibold sm:px-4 sm:py-0 sm:underline-offset-2 sm:hover:underline"
+						href={link.path}
+						rel={link.external ? "noopener noreferrer" : undefined}
+						target={link.external ? "_blank" : undefined}
+					>
+						{link.title}
+					</a>
+				),
+			)}
+		</nav>
+	</div>
+	<Search />
+	<ThemeToggle />
+	<mobile-button>
+		<button
+			aria-expanded="false"
+			aria-haspopup="menu"
+			class="group relative ms-4 h-7 w-7 sm:invisible sm:hidden"
+			id="toggle-navigation-menu"
+			type="button"
+		>
+			<span class="sr-only">Open main menu</span>
+			<svg
+				aria-hidden="true"
+				class="absolute start-1/2 top-1/2 h-full w-full -translate-x-1/2 -translate-y-1/2 transition-all group-aria-expanded:scale-0 group-aria-expanded:opacity-0"
+				fill="none"
+				focusable="false"
+				id="line-svg"
+				stroke="currentColor"
+				stroke-width="1.5"
+				viewBox="0 0 24 24"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path
+					d="M3.75 9h16.5m-16.5 6.75h16.5"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				></path>
+			</svg>
+			<svg
+				aria-hidden="true"
+				class="text-accent absolute start-1/2 top-1/2 h-full w-full -translate-x-1/2 -translate-y-1/2 scale-0 opacity-0 transition-all group-aria-expanded:scale-100 group-aria-expanded:opacity-100"
+				fill="none"
+				focusable="false"
+				id="cross-svg"
+				stroke="currentColor"
+				stroke-width="1.5"
+				viewBox="0 0 24 24"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"></path>
+			</svg>
+		</button>
+	</mobile-button>
+</header>
+
+<script>
+	import { toggleClass } from "@/utils/domElement";
+
+	class MobileNavBtn extends HTMLElement {
+		#menuOpen: boolean = false;
+
+		connectedCallback() {
+			const headerEl = document.getElementById("main-header")!;
+			const mobileButtonEl = this.querySelector<HTMLButtonElement>("button");
+
+			mobileButtonEl?.addEventListener("click", () => {
+				if (headerEl) toggleClass(headerEl, "menu-open");
+				this.#menuOpen = !this.#menuOpen;
+				mobileButtonEl.setAttribute("aria-expanded", this.#menuOpen.toString());
+			});
+		}
+	}
+
+	customElements.define("mobile-button", MobileNavBtn);
+
+	class NavDropdown extends HTMLElement {
+		#open = false;
+
+		connectedCallback() {
+			const button = this.querySelector<HTMLButtonElement>("button");
+			const menu = this.querySelector<HTMLElement>("[data-dropdown-menu]");
+			if (!button || !menu) return;
+
+			const setOpen = (open: boolean) => {
+				this.#open = open;
+				button.setAttribute("aria-expanded", open.toString());
+				menu.classList.toggle("hidden", !open);
+				menu.classList.toggle("flex", open);
+			};
+
+			button.addEventListener("click", (event) => {
+				event.stopPropagation();
+				setOpen(!this.#open);
+			});
+
+			document.addEventListener("click", (event) => {
+				if (this.#open && !this.contains(event.target as Node)) setOpen(false);
+			});
+
+			document.addEventListener("keydown", (event) => {
+				if (event.key === "Escape" && this.#open) {
+					setOpen(false);
+					button.focus();
+				}
+			});
+		}
+	}
+
+	customElements.define("nav-dropdown", NavDropdown);
+</script>

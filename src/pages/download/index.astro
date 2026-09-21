@@ -1,0 +1,27 @@
+---
+import PageLayout from "@/layouts/Base.astro";
+import { menuLinks } from "@/site.config";
+
+const downloads = menuLinks.find((link) => link.path === "/download/")?.children ?? [];
+
+const meta = {
+	description: "Download the Vastrel world files",
+	title: "Download",
+};
+---
+
+<PageLayout meta={meta}>
+	<section>
+		<h1 class="title mb-6">Download</h1>
+		<ul class="mt-6 space-y-4 text-start">
+			{downloads.map((download) => (
+				<li class="flex items-baseline gap-3">
+					<a class="text-accent font-semibold sm:hover:underline" href={download.path}>
+						{download.title}
+					</a>
+					<span class="text-muted text-sm">Coming soon</span>
+				</li>
+			))}
+		</ul>
+	</section>
+</PageLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Vastrel V logo</title>
+  <desc id="desc">A large, black, pixel-art letter V centered on a white square background.</desc>
+  <rect width="1024" height="1024" fill="#fff"/>
+  <path fill="#000" shape-rendering="crispEdges" d="
+    M40 40H340V82H382V170H340V214H382V302H424V390H466V478H498V566H526V478H558V390H600V302H642V214H684V170H642V82H684V40H984V128H936V214H890V302H846V390H802V478H758V566H714V654H670V742H626V830H582V918H542V970H482V918H442V830H398V742H354V654H310V566H266V478H222V390H178V302H134V214H88V128H40Z
+  "/>
+</svg>

@@ -1,0 +1,27 @@
+---
+import PageLayout from "@/layouts/Base.astro";
+import { menuLinks } from "@/site.config";
+
+const Maparts = menuLinks.find((link) => link.path === "/Maparts/")?.children ?? [];
+
+const meta = {
+	description: "View the Mapart Archive From 6B6T",
+	title: "Maparts",
+};
+---
+
+<PageLayout meta={meta}>
+	<section>
+		<h1 class="title mb-6">Maparts</h1>
+		<ul class="mt-6 space-y-4 text-start">
+			{Maparts.map((mapart) => (
+				<li class="flex items-baseline gap-3">
+					<a class="text-accent font-semibold sm:hover:underline" href={mapart.path}>
+						{mapart.title}
+					</a>
+					<span class="text-muted text-sm">Coming soon</span>
+				</li>
+			))}
+		</ul>
+	</section>
+</PageLayout>
